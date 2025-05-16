@@ -1,3 +1,5 @@
+# MyStore Automation Framework
+
 This is an automated testing framework for the MyStore web app. It uses the Page Object Model (POM) design pattern for easy maintenance and TestNG as the test runner. The framework automates real user scenarios like registration, login, and logout.
 
 Features covered:
